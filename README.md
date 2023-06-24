@@ -27,6 +27,11 @@ This is a collection of information and links intended to be useful to developer
 - [esvu](https://github.com/devsnek/esvu) - esvu is your one-stop shop for all implementations of ECMAScript
 - [jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
 
+### Wrappers
+
+- [eshost](https://github.com/bterlson/eshost) - A uniform wrapper around a multitude of ECMAScript hosts
+- [eshost-cli](https://github.com/bterlson/eshost-cli) - Run ECMAScript code uniformly across any ECMAScript host
+
 ## Specifications
 
 - [ECMA-262](https://tc39.es/ecma262) (ECMAScript Language Specification)
