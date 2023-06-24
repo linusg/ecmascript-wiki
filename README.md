@@ -8,14 +8,19 @@ This is a collection of information and links intended to be useful to developer
 |------|------|---------|-------------|-------------------------|---------|----------------------|
 | <img width="32" src="https://boajs.dev/images/logo.png"> | Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
 | | ChakraCore | | https://github.com/chakra-core/ChakraCore | C++ | MIT | |
+| | Duktape | | https://github.com/svaarala/duktape | C | MIT | ES5.1, [ES6/7 (partial)](https://wiki.duktape.org/postes5features) |
+| | Elk | | https://github.com/cesanta/elk | C | AGPL-3 | subset of ES6 | 
 | <img width="32" src="https://avatars.githubusercontent.com/u/51185628"> | engine262 | https://engine262.js.org | https://github.com/engine262/engine262 | JavaScript | MIT | ESNext |
 | | goja | | https://github.com/dop251/goja | Go | MIT | ES5.1 |
 | | GraalJS (GraalVM JavaScript) | https://www.graalvm.org/dev/reference-manual/js/ | https://github.com/oracle/graaljs | Java | UPL-1.0 | ESNext |
 | <img width="32" src="https://hermesengine.dev/img/logo.svg"> | Hermes | https://hermesengine.dev | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://hermesengine.dev/docs/language-features) |
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
+| <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
 | <img width="32" src="https://lh5.googleusercontent.com/J4azFveGFjfodaKPscuiL6AmtEp4TPYlmYwV1Rp09NrqH6KJZR73fmD_8XoH4uQpape7P8HxsmoRTOkAGNnSm0hFCWU_VyDydDgZ03rU0kMdySovQPoICI0beqfNlkC3NWNLv_A-zbvpPBVhyjljakhAww=s2048"> | LibJS | https://libjs.dev | https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS | C++ | BSD-2-Clause | ESNext |
+| | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
 | | QuickJS | https://bellard.org/quickjs/ | https://github.com/bellard/quickjs | C | MIT | ES2020 |
-| <img width="32" src="https://raw.githubusercontent.com/mozilla-spidermonkey/spidermonkey.dev/production/assets/img/spidermonkey-small.svg"> | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL 2.0 | ESNext |
+| <img width="32" src="https://raw.githubusercontent.com/mozilla-spidermonkey/spidermonkey.dev/production/assets/img/spidermonkey-small.svg"> | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL-2.0 | ESNext |
+| | Starlight | https://teletype.in/@starlight-js | https://github.com/Starlight-JS/starlight | Rust | MPL-2.0 | |
 | ![image](https://v8.dev/_img/v8-outline.svg) | V8 | https://v8.dev | https://source.chromium.org/chromium/chromium/src/+/main:v8/ | C++, JavaScript | BSD | ESNext |
 | | XS (Moddable SDK) | https://www.moddable.com | https://github.com/Moddable-OpenSource/moddable | C | LGPL-3 | ES2021 |
 
