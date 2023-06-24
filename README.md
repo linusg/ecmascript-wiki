@@ -6,12 +6,21 @@ This is a collection of information and links intended to be useful to developer
 
 | Name | Website | Source code | Implementation Language | License | Supported ES version |
 |------|---------|-------------|-------------------------|---------|----------------------|
+| Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
+| ChakraCore | | https://github.com/chakra-core/ChakraCore | C++ | MIT | |
+| engine262 | https://engine262.js.org | https://github.com/engine262/engine262 | JavaScript | MIT | ESNext |
+| goja | | https://github.com/dop251/goja | Go | MIT | ES5.1 |
+| GraalJS (GraalVM JavaScript) | https://www.graalvm.org/dev/reference-manual/js/ | https://github.com/oracle/graaljs | Java | UPL-1.0 | ESNext |
+| Hermes | https://hermesengine.dev | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://hermesengine.dev/docs/language-features) |
 | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | LibJS | https://libjs.dev | https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS | C++ | BSD-2-Clause | ESNext |
+| QuickJS | https://bellard.org/quickjs/ | https://github.com/bellard/quickjs | C | MIT | ES2020 |
 | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL 2.0 | ESNext |
 | V8 | https://v8.dev | https://source.chromium.org/chromium/chromium/src/+/main:v8/ | C++, JavaScript | BSD | ESNext |
+| XS (Moddable SDK) | https://www.moddable.com | https://github.com/Moddable-OpenSource/moddable | C | LGPL-3 | ES2021 |
 
-TODO: Boa, ChakraCore, engine262, GraalJS, Hermes, QuickJS, XS
+> **Note**
+> _ESNext_ indicates that the engine generally targets the latest ECMAScript standard without major exceptions.
 
 ## Specifications
 
