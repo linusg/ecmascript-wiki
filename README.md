@@ -37,6 +37,7 @@ This is a collection of information and links intended to be useful to developer
 
 - [test262.fyi](https://test262.fyi) - Daily runner of test262 for many engines
 - [test262.report](https://test262.report) - test262 results for various engines (defunct as of 2022-09)
+- [boajs.dev/boa/test262](https://boajs.dev/boa/test262) - test262 results for Boa
 - [libjs.dev/test262](https://libjs.dev/test262) - test262 results for LibJS (AST, bytecode, parser tests)
 
 ### Test Runners
