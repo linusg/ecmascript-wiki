@@ -34,8 +34,8 @@ This is a collection of information and links intended to be useful to developer
 
 ## Specifications
 
-- [ECMA-262](https://tc39.es/ecma262) (ECMAScript Language Specification)
-- [ECMA-402](https://tc39.es/ecma402) (ECMAScript Internationalization API Specification)
+- [ECMA-262](https://tc39.es/ecma262) - ECMAScript Language Specification
+- [ECMA-402](https://tc39.es/ecma402) - ECMAScript Internationalization API Specification
 
 ## Testing
 
