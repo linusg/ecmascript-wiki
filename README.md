@@ -42,6 +42,7 @@ This is a collection of information and links intended to be useful to developer
 ### Test Suites
 
 - [test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
+- [LibJS tests](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS/Tests) - Tests developed for LibJS with a Jest-like framework
 
 ### Test Results
 
@@ -53,6 +54,7 @@ This is a collection of information and links intended to be useful to developer
 ### Test Runners
 
 - [linusg/libjs-test262](https://github.com/linusg/libjs-test262) - test262 runner for LibJS
+- [LibJS `test-js`](https://github.com/SerenityOS/serenity/blob/master/Tests/LibJS/test-js.cpp) - Custom test runner for the LibJS tests
 
 ## Transpilers
 
