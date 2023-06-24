@@ -51,5 +51,5 @@ TODO: Babel, Sucrase, SWC
 ## Websites
 
 - [ECMAScript proposals](https://github.com/tc39/proposals)
-- [TC39](https://tc39.es)
-- [WinterCG](https://wintercg.org)
+- [TC39](https://tc39.es) - Ecma TC39 committee standardizing ECMAScript
+- [WinterCG](https://wintercg.org) - Web-interoperable Runtimes Community Group
