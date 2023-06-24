@@ -22,6 +22,11 @@ This is a collection of information and links intended to be useful to developer
 > **Note**
 > _ESNext_ indicates that the engine generally targets the latest ECMAScript standard without major exceptions.
 
+### Installers
+
+- [esvu](https://github.com/devsnek/esvu) - esvu is your one-stop shop for all implementations of ECMAScript
+- [jsvu](https://github.com/GoogleChromeLabs/jsvu) - JavaScript (engine) Version Updater
+
 ## Specifications
 
 - [ECMA-262](https://tc39.es/ecma262) (ECMAScript Language Specification)
