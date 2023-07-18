@@ -16,7 +16,7 @@ This is a collection of information and links intended to be useful to developer
 | <img width="32" src="https://hermesengine.dev/img/logo.svg"> | Hermes | https://hermesengine.dev | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://hermesengine.dev/docs/language-features) |
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
-| <img width="32" src="https://kiesel.dev/kiesel.svg"> | Kiesel | https://kiesel.dev | https://codeberg.org/kiesel-js/kiesel | Zig | MIT | |
+| <img width="32" src="https://files.kiesel.dev/img/kiesel-bg.png"> | Kiesel | https://kiesel.dev | https://codeberg.org/kiesel-js/kiesel | Zig | MIT | |
 | <img width="32" src="https://lh5.googleusercontent.com/J4azFveGFjfodaKPscuiL6AmtEp4TPYlmYwV1Rp09NrqH6KJZR73fmD_8XoH4uQpape7P8HxsmoRTOkAGNnSm0hFCWU_VyDydDgZ03rU0kMdySovQPoICI0beqfNlkC3NWNLv_A-zbvpPBVhyjljakhAww=s2048"> | LibJS | https://libjs.dev | https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS | C++ | BSD-2-Clause | ESNext |
 | | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
 | <img width="32" src="https://raw.githubusercontent.com/CanadaHonk/porffor/main/logo.png"> | porffor | https://porffor.goose.icu | https://github.com/CanadaHonk/porffor | JavaScript | MIT | |
