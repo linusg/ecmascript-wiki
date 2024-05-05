@@ -6,7 +6,7 @@ This is a collection of information and links intended to be useful to developer
 
 | Logo | Name | Website | Source code | Implementation Language | License | Supported ES version |
 |------|------|---------|-------------|-------------------------|---------|----------------------|
-| <img width="32" src="https://boajs.dev/images/logo.png"> | Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
+| <img width="32" src="https://boajs.dev/img/new_logo_yellow.svg"> | Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
 | | ChakraCore | | https://github.com/chakra-core/ChakraCore | C++ | MIT | |
 | | Duktape | | https://github.com/svaarala/duktape | C | MIT | ES5.1, [ES6/7 (partial)](https://wiki.duktape.org/postes5features) |
 | | Elk | | https://github.com/cesanta/elk | C | AGPL-3 | subset of ES6 | 
