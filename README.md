@@ -14,7 +14,7 @@ This is a collection of information and links intended to be useful to developer
 | | Escargot | | https://github.com/Samsung/escargot | C++ | LGPL-2.1 | ES2020 |
 | | goja | | https://github.com/dop251/goja | Go | MIT | ES5.1 |
 | | GraalJS (GraalVM JavaScript) | https://www.graalvm.org/dev/reference-manual/js/ | https://github.com/oracle/graaljs | Java | UPL-1.0 | ESNext |
-| <img width="32" src="https://hermesengine.dev/img/logo.svg"> | Hermes | https://hermesengine.dev | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://hermesengine.dev/docs/language-features) |
+| <img width="32" src="https://raw.githubusercontent.com/facebook/hermes/main/doc/img/logo.svg"> | Hermes | | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://github.com/facebook/hermes/blob/main/doc/Features.md) |
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
 | <img width="32" src="https://files.kiesel.dev/img/kiesel-bg.png"> | Kiesel | https://kiesel.dev | https://codeberg.org/kiesel-js/kiesel | Zig | MIT | |
