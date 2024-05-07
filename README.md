@@ -12,6 +12,7 @@ This is a collection of information and links intended to be useful to developer
 | | Elk | | https://github.com/cesanta/elk | C | AGPL-3 | subset of ES6 | 
 | <img width="32" src="https://avatars.githubusercontent.com/u/51185628"> | engine262 | https://engine262.js.org | https://github.com/engine262/engine262 | JavaScript | MIT | ESNext |
 | | Escargot | | https://github.com/Samsung/escargot | C++ | LGPL-2.1 | ES2020 |
+| | Flathead | | https://github.com/ndreynolds/flathead | C | MIT | |
 | | goja | | https://github.com/dop251/goja | Go | MIT | ES5.1 |
 | | GraalJS (GraalVM JavaScript) | https://www.graalvm.org/dev/reference-manual/js/ | https://github.com/oracle/graaljs | Java | UPL-1.0 | ESNext |
 | <img width="32" src="https://raw.githubusercontent.com/facebook/hermes/main/doc/img/logo.svg"> | Hermes | | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://github.com/facebook/hermes/blob/main/doc/Features.md) |
