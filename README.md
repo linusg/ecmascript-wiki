@@ -18,6 +18,7 @@ This is a collection of information and links intended to be useful to developer
 | <img width="32" src="https://raw.githubusercontent.com/facebook/hermes/main/doc/img/logo.svg"> | Hermes | | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://github.com/facebook/hermes/blob/main/doc/Features.md) |
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
+| | Jint | | https://github.com/sebastienros/jint | C# | BSD-2-Clause | ESNext |
 | <img width="32" src="https://files.kiesel.dev/img/kiesel-bg.png"> | Kiesel | https://kiesel.dev | https://codeberg.org/kiesel-js/kiesel | Zig | MIT | |
 | <img width="32" src="https://lh5.googleusercontent.com/J4azFveGFjfodaKPscuiL6AmtEp4TPYlmYwV1Rp09NrqH6KJZR73fmD_8XoH4uQpape7P8HxsmoRTOkAGNnSm0hFCWU_VyDydDgZ03rU0kMdySovQPoICI0beqfNlkC3NWNLv_A-zbvpPBVhyjljakhAww=s2048"> | LibJS | https://libjs.dev | https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS | C++ | BSD-2-Clause | ESNext |
 | | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
