@@ -26,7 +26,7 @@ This is a collection of information and links intended to be useful to developer
 | <img width="32" src="https://avatars.githubusercontent.com/u/108045716?s=32"> | Nova | | https://github.com/trynova/nova | Rust | | |
 | <img width="32" src="https://raw.githubusercontent.com/CanadaHonk/porffor/main/logo.png"> | Porffor | https://porffor.goose.icu | https://github.com/CanadaHonk/porffor | JavaScript | MIT | |
 | | QuickJS | https://bellard.org/quickjs/ | https://github.com/bellard/quickjs | C | MIT | ES2020 |
-| | QtScript | https://bellard.org/quickjs/ | https://code.qt.io/cgit/qt/qtscript.git | C++ | LGPL | |
+| | QtScript | https://doc.qt.io/qt-5/qtscript-index.html | https://code.qt.io/cgit/qt/qtscript.git | C++ | LGPL | |
 | | QtJsEngine/Qv4 | https://doc.qt.io/qt-6/qjsengine.html | https://code.qt.io/cgit/qt/qtdeclarative.git/tree/src/qml | C++ | LGPL | |
 | | Rhino | https://mozilla.github.io/rhino | https://github.com/mozilla/rhino | Java | MPL-2.0 | subset of ES6 |
 | <img width="32" src="https://raw.githubusercontent.com/mozilla-spidermonkey/spidermonkey.dev/production/assets/img/spidermonkey-small.svg"> | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL-2.0 | ESNext |
