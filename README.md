@@ -24,6 +24,7 @@ This is a collection of information and links intended to be useful to developer
 | | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
 | | Nashorn | https://openjdk.org/projects/nashorn | https://github.com/openjdk/nashorn | Java | GPL-2.0 | subset of ES6 |
 | <img width="32" src="https://avatars.githubusercontent.com/u/108045716?s=32"> | Nova | | https://github.com/trynova/nova | Rust | | |
+| | Otto | | https://github.com/robertkrimen/otto | Go | MIT | ES5 |
 | <img width="32" src="https://raw.githubusercontent.com/CanadaHonk/porffor/main/logo.png"> | Porffor | https://porffor.goose.icu | https://github.com/CanadaHonk/porffor | JavaScript | MIT | |
 | | QuickJS | https://bellard.org/quickjs/ | https://github.com/bellard/quickjs | C | MIT | ES2020 |
 | | Rhino | https://mozilla.github.io/rhino | https://github.com/mozilla/rhino | Java | MPL-2.0 | subset of ES6 |
