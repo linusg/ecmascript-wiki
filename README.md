@@ -6,6 +6,7 @@ This is a collection of information and links intended to be useful to developer
 
 | Logo | Name | Website | Source code | Implementation Language | License | Supported ES version |
 |------|------|---------|-------------|-------------------------|---------|----------------------|
+| | BESEN | | https://github.com/BeRo1985/besen | Object Pascal | LGPL-2.1 | ES5 |
 | <img width="32" src="https://boajs.dev/img/new_logo_yellow.svg"> | Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
 | | ChakraCore | | https://github.com/chakra-core/ChakraCore | C++ | MIT | |
 | | Duktape | | https://github.com/svaarala/duktape | C | MIT | ES5.1, [ES6/7 (partial)](https://wiki.duktape.org/postes5features) |
@@ -16,6 +17,8 @@ This is a collection of information and links intended to be useful to developer
 | | goja | | https://github.com/dop251/goja | Go | MIT | ES5.1 |
 | | GraalJS (GraalVM JavaScript) | https://www.graalvm.org/dev/reference-manual/js/ | https://github.com/oracle/graaljs | Java | UPL-1.0 | ESNext |
 | <img width="32" src="https://raw.githubusercontent.com/facebook/hermes/main/doc/img/logo.svg"> | Hermes | | https://github.com/facebook/hermes | C++ | MIT | [ES6 with some exceptions](https://github.com/facebook/hermes/blob/main/doc/Features.md) |
+| | Higgs | | https://github.com/higgsjs/Higgs | D | | |
+| | iv | | https://github.com/constellation/iv | C++ | BSD-2-Clause | ES5.1 |
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
 | | Jint | | https://github.com/sebastienros/jint | C# | BSD-2-Clause | ESNext |
