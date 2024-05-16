@@ -32,6 +32,7 @@ This is a collection of information and links intended to be useful to developer
 | | QtJsEngine/Qv4 | https://doc.qt.io/qt-6/qjsengine.html | https://code.qt.io/cgit/qt/qtdeclarative.git/tree/src/qml | C++ | LGPL | |
 | | QtScript | https://doc.qt.io/qt-5/qtscript-index.html | https://code.qt.io/cgit/qt/qtscript.git | C++ | LGPL | |
 | | QuickJS | https://bellard.org/quickjs/ | https://github.com/bellard/quickjs | C | MIT | ES2020 |
+| | Reeva | | https://github.com/ReevaJS/reeva | Kotlin | BSD-2-Clause | |
 | | Rhino | https://mozilla.github.io/rhino | https://github.com/mozilla/rhino | Java | MPL-2.0 | subset of ES6 |
 | <img width="32" src="https://raw.githubusercontent.com/mozilla-spidermonkey/spidermonkey.dev/production/assets/img/spidermonkey-small.svg"> | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL-2.0 | ESNext |
 | | Starlight | https://teletype.in/@starlight-js | https://github.com/Starlight-JS/starlight | Rust | MPL-2.0 | |
