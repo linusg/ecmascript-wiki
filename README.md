@@ -22,9 +22,11 @@ This is a collection of information and links intended to be useful to developer
 | | JavaScriptCore | https://trac.webkit.org/wiki/JavaScriptCore | https://github.com/WebKit/WebKit/tree/main/Source/JavaScriptCore | C++, JavaScript | LGPL-2.1 | ESNext |
 | <img width="32" src="https://github.com/jerryscript-project/jerryscript/blob/master/LOGO.png"> | JerryScript | https://jerryscript.net | https://github.com/jerryscript-project/jerryscript | C | Apache-2.0 | ES5.1 |
 | | Jint | | https://github.com/sebastienros/jint | C# | BSD-2-Clause | ESNext |
+| | JS-Interpreter | | https://github.com/NeilFraser/JS-Interpreter | JavaScript | Apache-2.0 | |
 | <img width="32" src="https://files.kiesel.dev/img/kiesel-bg.png"> | Kiesel | https://kiesel.dev | https://codeberg.org/kiesel-js/kiesel | Zig | MIT | |
 | <img width="32" src="https://lh5.googleusercontent.com/J4azFveGFjfodaKPscuiL6AmtEp4TPYlmYwV1Rp09NrqH6KJZR73fmD_8XoH4uQpape7P8HxsmoRTOkAGNnSm0hFCWU_VyDydDgZ03rU0kMdySovQPoICI0beqfNlkC3NWNLv_A-zbvpPBVhyjljakhAww=s2048"> | LibJS | https://libjs.dev | https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS | C++ | BSD-2-Clause | ESNext |
 | | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
+| <img width="32" src="https://mujs.com/images/MuJS_logo_lr.png"> | MuJS | https://mujs.com | https://git.ghostscript.com/?p=mujs.git | C | ISC | ES5 |
 | | Nashorn | https://openjdk.org/projects/nashorn | https://github.com/openjdk/nashorn | Java | GPL-2.0 | subset of ES6 |
 | | njs | https://nginx.org/en/docs/njs/ | https://hg.nginx.org/njs | C | BSD-2-Clause | [ES5.1, ES6+ (partial)](https://nginx.org/en/docs/njs/compatibility.html) |
 | <img width="32" src="https://avatars.githubusercontent.com/u/108045716?s=32"> | Nova | | https://github.com/trynova/nova | Rust | | |
@@ -37,6 +39,7 @@ This is a collection of information and links intended to be useful to developer
 | | Rhino | https://mozilla.github.io/rhino | https://github.com/mozilla/rhino | Java | MPL-2.0 | subset of ES6 |
 | <img width="32" src="https://raw.githubusercontent.com/mozilla-spidermonkey/spidermonkey.dev/production/assets/img/spidermonkey-small.svg"> | Spidermonkey | https://spidermonkey.dev | https://searchfox.org/mozilla-central/source/js | C++, Rust, JavaScript | MPL-2.0 | ESNext |
 | | Starlight | https://teletype.in/@starlight-js | https://github.com/Starlight-JS/starlight | Rust | MPL-2.0 | |
+| | tiny-js | | https://github.com/gfwilliams/tiny-js | C++ | MIT | |
 | ![image](https://v8.dev/_img/v8-outline.svg) | V8 | https://v8.dev | https://source.chromium.org/chromium/chromium/src/+/main:v8/ | C++, JavaScript | BSD | ESNext |
 | | XS (Moddable SDK) | https://www.moddable.com | https://github.com/Moddable-OpenSource/moddable | C | LGPL-3 | ES2021 |
 
