@@ -29,7 +29,7 @@ This is a collection of information and links intended to be useful to developer
 | | mJS | https://mongoose-os.com | https://github.com/cesanta/mjs | C | GPL-2 | subset of ES6 |
 | <img width="32" src="https://mujs.com/images/MuJS_logo_lr.png"> | MuJS | https://mujs.com | https://git.ghostscript.com/?p=mujs.git | C | ISC | ES5 |
 | | Nashorn | https://openjdk.org/projects/nashorn | https://github.com/openjdk/nashorn | Java | GPL-2.0 | subset of ES6 |
-| | njs | https://nginx.org/en/docs/njs/ | https://hg.nginx.org/njs | C | BSD-2-Clause | [ES5.1, ES6+ (partial)](https://nginx.org/en/docs/njs/compatibility.html) |
+| | njs | https://nginx.org/en/docs/njs/ | https://github.com/nginx/njs | C | BSD-2-Clause | [ES5.1, ES6+ (partial)](https://nginx.org/en/docs/njs/compatibility.html) |
 | <img width="32" src="https://avatars.githubusercontent.com/u/108045716?s=32"> | Nova | | https://github.com/trynova/nova | Rust | | |
 | | Otto | | https://github.com/robertkrimen/otto | Go | MIT | ES5 |
 | <img width="32" src="https://raw.githubusercontent.com/CanadaHonk/porffor/main/logo.png"> | Porffor | https://porffor.goose.icu | https://github.com/CanadaHonk/porffor | JavaScript | MIT | |
