@@ -69,14 +69,16 @@ This is a collection of information and links intended to be useful to developer
 ### Test Suites
 
 - [test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
-- [LibJS tests](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS/Tests) - Tests developed for LibJS with a Jest-like framework
+- [Spidermonkey tests](https://searchfox.org/mozilla-central/source/js/src/tests/non262) - Spidermonkey's own test suite
+- [LibJS tests](https://github.com/SerenityOS/serenity/tree/master/Userland/Libraries/LibJS/Tests) - LibJS's own test suite
 
 ### Test Results
 
 - [test262.fyi](https://test262.fyi) - Daily runner of test262 for many engines
 - [test262.report](https://test262.report) - test262 results for various engines (defunct as of 2022-09)
-- [boajs.dev/boa/test262](https://boajs.dev/boa/test262) - test262 results for Boa
-- [libjs.dev/test262](https://libjs.dev/test262) - test262 results for LibJS (AST, bytecode, parser tests)
+- [boajs.dev/conformance](https://boajs.dev/conformance) - test262 results for Boa
+- [porffor.dev/#test262_percent](https://porffor.dev/#test262_percent) - test262 results for Porffor
+- [ladybirdbrowser.github.io/libjs-website/test262](https://ladybirdbrowser.github.io/libjs-website/test262) - test262 results for Ladybird's LibJS (AST, bytecode, parser tests)
 
 ### Test Runners
 
