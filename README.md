@@ -6,6 +6,7 @@ This is a collection of information and links intended to be useful to developer
 
 | Logo | Name | Website | Source code | Implementation Language | License | Supported ES version |
 |------|------|---------|-------------|-------------------------|---------|----------------------|
+| | Bali | | https://github.com/ferus-web/bali | Nim | GPL-3.0 | |
 | | BESEN | | https://github.com/BeRo1985/besen | Object Pascal | LGPL-2.1 | ES5 |
 | <img width="32" src="https://boajs.dev/img/new_logo_yellow.svg"> | Boa | https://boajs.dev | https://github.com/boa-dev/boa | Rust | MIT | |
 | | ChakraCore | | https://github.com/chakra-core/ChakraCore | C++ | MIT | |
