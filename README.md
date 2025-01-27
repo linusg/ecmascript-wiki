@@ -45,6 +45,7 @@ This is a collection of information and links intended to be useful to developer
 | | tiny-js | | https://github.com/gfwilliams/tiny-js | C++ | MIT | |
 | ![image](https://v8.dev/_img/v8-outline.svg) | V8 | https://v8.dev | https://source.chromium.org/chromium/chromium/src/+/main:v8/ | C++, JavaScript | BSD | ESNext |
 | | XS (Moddable SDK) | https://www.moddable.com | https://github.com/Moddable-OpenSource/moddable | C | LGPL-3 | ES2021 |
+| | Yavashark | | https://github.com/Sharktheone/yavashark | Rust | MIT | |
 
 > **Note**
 > _ESNext_ indicates that the engine generally targets the latest ECMAScript standard without major exceptions.
